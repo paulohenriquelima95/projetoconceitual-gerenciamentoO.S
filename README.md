@@ -24,10 +24,11 @@ Este projeto consiste em criar o esquema conceitual para o contexto de gerenciam
 3. Explore as entidades, atributos e relacionamentos no diagrama.
 
 ## Estrutura do Projeto
-/projetoconceitual-gerenciamentoO.S
-|-- projetoconceitual-gerenciamentoO.S.png
-|-- projetoconceitual-gerenciamentoO.S.pdf
-|-- README.md
+- **projetoconceitual-gerenciamentoO.S/**
+  - projetoconceitual-gerenciamentoO.S.png
+  - projetoconceitual-gerenciamentoO.S.pdf
+  - README.md
+
 
 csharp
 Copy code
@@ -37,5 +38,5 @@ Contribuições não são esperadas para este projeto, pois se trata apenas de u
 
 ## Contato
 ### Paulo Henrique Lima
-E-mail:  [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
-Linkedin:  [linkedin.com/in/paulohenriquelima95](www.linkedin.com/in/paulohenriquelima95)
+- E-mail:  [paulohenrique-95@hotmail.com](paulohenrique-95@hotmail.com)
+- Linkedin:  [linkedin.com/in/paulohenriquelima95](www.linkedin.com/in/paulohenriquelima95)
